@@ -44381,7 +44381,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
                     // };
 
                     var finalOffset = duration - time;
-                    if (Math.abs(finalOffset) < delta) {
+                    if (duration && time && Math.abs(finalOffset) < delta) {
                         _this2.finished = true;
                     };
 
