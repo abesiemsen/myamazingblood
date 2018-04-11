@@ -133,6 +133,7 @@
 .interaction-inner #interaction-intro .play {
   position: absolute;
   width: 7%;
+  width: auto;
   top: 65%;
   cursor: pointer;
   left: 50%;
