@@ -329,7 +329,7 @@
   -webkit-transition: all 1.5s ease;
   transition: all 1.5s ease;
   background-color: rgba(255, 255, 255, 0);
-  visibility: visible;
+  visibility: hidden;
   z-index: 5;
   pointer-events: none;
 }
@@ -337,7 +337,7 @@
 #video-component .cover.shown,
 #video-component .cover.finished {
   background-color: white;
-  visibility: hidden;
+  visibility: visible;
 }
 
 #video-component .cover.shown.first,
