@@ -524,6 +524,7 @@
   right: 2%;
   top: -15%;
   width: 1.5%;
+  height: auto;
 }
 
 #interaction-1 .success-item.item-1 .img-2 {
@@ -534,6 +535,7 @@
   right: 1%;
   top: -5%;
   width: 1%;
+  height: auto;
 }
 
 #interaction-1 .success-item.item-1 .img-3 {
@@ -544,6 +546,7 @@
   top: -10%;
   right: 1%;
   width: 3%;
+  height: auto;
 }
 
 #interaction-1 .success-item.item-1 .img-4 {
@@ -553,6 +556,7 @@
           animation: wobble 4s infinite;
   right: 0%;
   width: 2%;
+  height: auto;
   top: -5%;
 }
 
@@ -564,6 +568,7 @@
   right: 2%;
   top: -15%;
   width: 1.5%;
+  height: auto;
 }
 
 #interaction-1 .success-item.item-2 .img-2 {
@@ -574,6 +579,7 @@
   right: 1%;
   top: -5%;
   width: 1%;
+  height: auto;
 }
 
 #interaction-1 .success-item.item-2 .img-3 {
@@ -584,6 +590,7 @@
   top: -10%;
   right: 1%;
   width: 3%;
+  height: auto;
 }
 
 #interaction-1 .success-item.item-3 .img-1 {
@@ -594,6 +601,7 @@
   right: 2%;
   top: -15%;
   width: 1.5%;
+  height: auto;
 }
 
 #interaction-1 .success-item.item-3 .img-2 {
@@ -604,6 +612,7 @@
   right: 1%;
   top: -5%;
   width: 3%;
+  height: auto;
 }
 
 #interaction-1 .success-item.item-3 .img-3 {
@@ -614,6 +623,7 @@
   top: -10%;
   right: 1%;
   width: 3%;
+  height: auto;
 }
 
 #interaction-1 .success-item.item-3 .img-4 {
@@ -623,6 +633,7 @@
           animation: wobble 4.5s infinite;
   right: 0%;
   width: 2%;
+  height: auto;
   top: -5%;
 }
 
