@@ -36,7 +36,8 @@
                         :account="brightcove_account"
                         :videoid="brightcove_video_id"
                         :playerid="brightcove_player_id"
-                        @completed="goToNextInteraction">
+                        @completed="goToNextInteraction"
+                        @video-volume-change="setVolume">
                     </video-component>
 
                     <interaction-1 v-if="stage == 2"
