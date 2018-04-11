@@ -44155,9 +44155,9 @@ var render = function() {
       _c("div", {
         staticClass: "cover",
         class: {
-          first: _vm.initial,
-          shown: !_vm.started,
-          finished: _vm.finished
+          first: _vm.initial === true,
+          shown: !_vm.started === true,
+          finished: _vm.finished === true
         }
       }),
       _vm._v(" "),
