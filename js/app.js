@@ -44158,7 +44158,7 @@ var render = function() {
           first: _vm.initial === true,
           shown: !_vm.started === true,
           finished: _vm.finished === true,
-          v3: true
+          v4: true
         }
       }),
       _vm._v(" "),
