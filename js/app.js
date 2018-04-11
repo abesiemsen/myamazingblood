@@ -44152,6 +44152,16 @@ var render = function() {
     "div",
     { attrs: { id: "video-component", "data-player": "brightcove" } },
     [
+      _c("div", {
+        class: {
+          cover: true,
+          first: _vm.initial === true,
+          shown: !_vm.started === true,
+          finished: _vm.finished === true,
+          v2: true
+        }
+      }),
+      _vm._v(" "),
       _c("video", {
         staticClass: "video-js",
         staticStyle: {
