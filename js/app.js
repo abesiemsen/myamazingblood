@@ -44052,7 +44052,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
         },
         playerVolumeChange: function playerVolumeChange(event) {
             if (this.debug) console.log("Video Volume Change:", this.player.volume());
-            this.$emit('videoVolumeChange', this.player.volume());
+            this.$emit('video-volume-change', this.player.volume());
         },
         checkTime: function checkTime() {
             var _this2 = this;
