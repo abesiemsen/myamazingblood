@@ -754,6 +754,7 @@
   top: 55% !important;
   left: 35% !important;
   width: 7%;
+  height: auto;
 }
 
 #interaction-2 .prop.item-2 {
@@ -762,6 +763,7 @@
   top: 47% !important;
   left: 52% !important;
   width: 7%;
+  height: auto;
 }
 
 #interaction-2 .prop.item-3 {
@@ -772,6 +774,7 @@
   top: 80%;
   left: 30%;
   width: 5%;
+  height: auto;
 }
 
 #interaction-2 .prop.item-4 {
@@ -782,6 +785,7 @@
   top: 75%;
   left: 55%;
   width: 6%;
+  height: auto;
 }
 
 #interaction-3 .clot {
