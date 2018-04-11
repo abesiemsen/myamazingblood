@@ -44153,11 +44153,12 @@ var render = function() {
     { attrs: { id: "video-component", "data-player": "brightcove" } },
     [
       _c("div", {
-        staticClass: "cover",
         class: {
+          cover: true,
           first: _vm.initial === true,
           shown: !_vm.started === true,
-          finished: _vm.finished === true
+          finished: _vm.finished === true,
+          v1: true
         }
       }),
       _vm._v(" "),
