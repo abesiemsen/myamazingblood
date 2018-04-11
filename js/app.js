@@ -44180,7 +44180,8 @@ var render = function() {
           "data-player": _vm.playerid,
           "data-embed": "default",
           "data-application-id": "",
-          controls: ""
+          controls: "",
+          playsinline: ""
         }
       })
     ]
